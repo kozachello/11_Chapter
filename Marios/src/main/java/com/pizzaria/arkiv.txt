@@ -1,0 +1,4 @@
+Pizzanummer: 1. Antal: 1. Afhentes: 11. Ordrer nummer: 1
+Pizzanummer: 1. Antal: 2. Afhentes: 12. Ordrer nummer: 1
+Pizzanummer: 1. Antal: 2. Afhentes: 12. Ordrer nummer: 1
+Pizzanummer: 3. Antal: 3. Afhentes: 13. Ordrer nummer: 2
